@@ -1,0 +1,23 @@
+{
+  "name": "avatar-dowloader2",
+  "version": "1.0.0",
+  "description": "## Problem Statement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamyllaAlmeida/avatar-dowloader2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KamyllaAlmeida/avatar-dowloader2/issues"
+  },
+  "homepage": "https://github.com/KamyllaAlmeida/avatar-dowloader2#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
